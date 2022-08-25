@@ -1,0 +1,142 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "personal": [
+    {
+      "userId": "d507bf6d-e89a-46c9-b193-a8075c22dcc1",
+      "username": "Giles.Schmidt91",
+      "email": "Tremaine_Kiehn68@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/573.jpg",
+      "password": "syakMEWTbPnATGG",
+      "birthdate": "1947-04-18T11:06:23.180Z",
+      "registeredAt": "2022-02-17T01:26:01.236Z"
+    },
+    {
+      "userId": "f79188d7-02f5-4e75-9ce7-68316cd664a3",
+      "username": "Alyson69",
+      "email": "Emmett37@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/223.jpg",
+      "password": "LY8nPtziNijnNXX",
+      "birthdate": "1991-06-29T21:53:59.169Z",
+      "registeredAt": "2022-03-30T18:09:30.418Z"
+    },
+    {
+      "userId": "01b5a2b5-5671-40d4-84a7-f36bab838bd6",
+      "username": "Mia.Cummerata24",
+      "email": "Gordon23@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/864.jpg",
+      "password": "r_4MdciE_mGpIt9",
+      "birthdate": "1996-07-06T11:52:46.917Z",
+      "registeredAt": "2021-12-15T12:31:55.954Z"
+    },
+    {
+      "userId": "0d0fb09c-ece6-4563-b39d-1416511e077d",
+      "username": "Camila_Spinka27",
+      "email": "Callie_Brekke97@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1026.jpg",
+      "password": "kVJeRqpaP4fkTw8",
+      "birthdate": "2004-07-17T12:51:23.871Z",
+      "registeredAt": "2022-03-21T18:12:50.574Z"
+    },
+    {
+      "userId": "a65b2604-d3ce-4b26-82d9-ece2ebdfe5d4",
+      "username": "Wyman.Gutmann38",
+      "email": "Evangeline48@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1223.jpg",
+      "password": "8dP2H7XZpSAkePh",
+      "birthdate": "1990-02-13T18:59:28.391Z",
+      "registeredAt": "2021-08-20T23:12:47.266Z"
+    },
+    {
+      "userId": "7561dc3d-2c48-4d6e-98c3-b8c8ecb3d2f6",
+      "username": "Margret.Kautzer",
+      "email": "Odessa_Waelchi@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1096.jpg",
+      "password": "EPoXCv2_ECi5ai8",
+      "birthdate": "1945-09-02T16:54:30.713Z",
+      "registeredAt": "2022-06-28T06:58:42.179Z"
+    },
+    {
+      "userId": "65cf1935-07f0-4467-8548-fa78da72b782",
+      "username": "Murphy6",
+      "email": "Tyler.Tromp2@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/988.jpg",
+      "password": "1nj8NPC2xUWERWF",
+      "birthdate": "1952-09-04T13:17:56.840Z",
+      "registeredAt": "2021-12-14T11:23:55.430Z"
+    },
+    {
+      "userId": "1b884a6d-95ad-419d-b5e6-9d7504ee9bf6",
+      "username": "Genoveva_Larkin",
+      "email": "Geovanny.Casper@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/415.jpg",
+      "password": "EfjZCaMdyJ03tp4",
+      "birthdate": "1970-07-04T15:57:19.650Z",
+      "registeredAt": "2022-07-24T01:38:37.919Z"
+    },
+    {
+      "userId": "ad2804e9-0754-4ad5-890a-7750b3307561",
+      "username": "Lonzo_Sipes79",
+      "email": "Erick.Rippin@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/478.jpg",
+      "password": "gFIgVPxHnkjvNcF",
+      "birthdate": "2003-10-13T23:13:23.062Z",
+      "registeredAt": "2022-01-01T04:45:04.851Z"
+    },
+    {
+      "userId": "9a0c9ff0-dd61-4ea6-8080-54d31c8b1cf6",
+      "username": "Thelma30",
+      "email": "Kaden68@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/556.jpg",
+      "password": "Jf23BjfAeWm1V87",
+      "birthdate": "1985-07-05T09:46:41.874Z",
+      "registeredAt": "2021-08-02T20:00:51.195Z"
+    },
+    {
+      "userId": "e9e90d5a-0718-4260-a2b0-3b52de5566ca",
+      "username": "Tara75",
+      "email": "Jasen_Williamson66@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/729.jpg",
+      "password": "Lala8LRMVrIPoj9",
+      "birthdate": "1977-06-10T19:34:35.201Z",
+      "registeredAt": "2022-07-23T10:34:20.823Z"
+    },
+    {
+      "userId": "c8de2548-ed55-48e7-b017-a1d37617931e",
+      "username": "Lula_Brekke39",
+      "email": "Dave.Gaylord@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1066.jpg",
+      "password": "FdF0LssKCl323YE",
+      "birthdate": "1987-03-29T17:33:46.846Z",
+      "registeredAt": "2022-06-14T10:56:17.139Z"
+    },
+    {
+      "userId": "043c693e-8cbd-4e9a-9268-e6f5d13e1063",
+      "username": "Lyda77",
+      "email": "Sister_Nienow95@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1151.jpg",
+      "password": "wcTUEhxDvzyxWlI",
+      "birthdate": "2004-05-07T06:56:43.923Z",
+      "registeredAt": "2021-09-13T02:10:58.915Z"
+    },
+    {
+      "userId": "adac90af-755e-4b9a-8b4e-456e3f4607e1",
+      "username": "Hubert.Friesen99",
+      "email": "Gerard.Boyer@hotmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/277.jpg",
+      "password": "6BGwpaGZ0BncB0x",
+      "birthdate": "2002-03-02T22:58:11.971Z",
+      "registeredAt": "2021-09-09T23:29:32.680Z"
+    },
+    {
+      "userId": "f3098e5a-a6c1-41f5-b082-07893b3d2b3e",
+      "username": "Mervin_Ernser20",
+      "email": "Emerson.Keebler58@yahoo.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1102.jpg",
+      "password": "kcNvANEZKlgCjEO",
+      "birthdate": "1991-10-03T06:38:23.171Z",
+      "registeredAt": "2021-08-25T19:45:49.946Z"
+    }
+  ]
+}
